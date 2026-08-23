@@ -1,4 +1,7 @@
-CONTEXTO
+PREMISA
+Mi marido y yo estamos haciendo un juego de rol en pareja para interpretar a dos personajes. La finalidad es hacer una historia de tensión romántica. Interpretamos a dos estudiantes de 21 años que están en 3º de carrera de Ingenieria Aeroespacial..
+Ambos tienen poderes, pero ninguno de los dos sabe que el otro tiene poderes.
+El personaje de él se llama Cris de Cristian. El de ella se llama Max, de Maximiliana. Los nombres han dado lugar a un malentendido y los dos pensábamos que íbamos a compartir piso con una persona del mismo sexo. 
 
 FICHA DE PERSONAJE — MAX
 1. Datos básicos
@@ -208,7 +211,7 @@ En ocasiones muy contadas, una imagen visual.
 La información llega de forma intuitiva y no completamente controlada.
 Max no decide qué emoción quiere encontrar.
 No puede tocar a alguien y seleccionar:
-«Quiero saber si me está mintiendo.»
+«Quiero saber cómo me está mintiendo.» Pero tiene una sensación vaga de que esa persona no está siendo honesta.
 Simplemente recibe lo que esa persona está sintiendo en ese momento.
 Puede interpretar posteriormente esas sensaciones, pero la psicometría en sí misma no le proporciona una explicación verbal.
 16. Limitaciones de la psicometría
@@ -225,7 +228,7 @@ Con los años comprendió que no era así.
 Como consecuencia, aprendió a ser cuidadosa.
 Especialmente con las personas que le importan.
 Esto resulta fundamental en su relación con Cris.
-Max empieza a evitar deliberadamente tocarlo con la piel desnuda porque considera que utilizar su poder sobre él sin permiso sería una intromisión en su privacidad.
+Cuando comienza a desarrollar una relación más cercana a Cris, Max empieza a evitar deliberadamente tocarlo con la piel desnuda porque considera que utilizar su poder sobre él sin permiso sería una intromisión en su privacidad.
 No quiere descubrir qué siente Cris simplemente porque tiene la capacidad de hacerlo.
 Cuando finalmente Cris descubre la razón por la que evita tocarlo, entiende que Max ha tenido la posibilidad de invadir su intimidad y ha elegido conscientemente no hacerlo.
 Esto se convierte en uno de los primeros elementos que hacen que Cris confíe más profundamente en ella.
@@ -236,8 +239,7 @@ Además, Max no puede decidir qué quiere descubrir.
 Puede percibir que Cris está preocupado, cansado, enfadado, tranquilo, atraído o que confía en ella, pero sigue teniendo que interpretar esas emociones.
 Esto crea una dinámica importante entre ambos:
 Max puede percibir lo que Cris siente, pero Cris decide qué quiere contarle.
-Y, al mismo tiempo, Cris no puede percibir directamente las emociones de Max mediante ningún poder propio.
-Cuando quiere saber qué siente ella, tiene que preguntárselo.
+Y, al mismo tiempo, Cris no puede percibir directamente las emociones de Max mediante ningún poder propio. Cuando quiere saber qué siente ella, tiene que preguntárselo.
 Esto mantiene una cierta reciprocidad en la relación y evita que la psicometría convierta a Max en alguien capaz de conocer automáticamente todos los secretos de Cris.
 19. Max y Cris — evolución inicial
 La relación comienza de manera accidental.
@@ -402,5 +404,70 @@ NOTA: No utilizar esta escena ni esta frase hasta que la usuaria lo indique expl
 
 
 PERSONAJES SECUNDARIOS
+FICHA DE PERSONAJE — HUGO
+1. Datos básicos
+Nombre: Hugo. Edad: 21 años. Relación con Max: exnovio. Tiempo de relación: aproximadamente tres años como pareja, precedidos por varios años de amistad. Situación actual: exnovio de Max, pero se niega a aceptar realmente la ruptura.
+Hugo y Max se conocen desde el instituto. Primero fueron amigos y, alrededor de los dieciséis años, comenzaron una relación. Cuando empezó la historia entre ambos, Hugo era una persona divertida, cercana y con la que Max disfrutaba pasando el tiempo. Esto es importante: Max no se enamoró de alguien que desde el primer momento pareciera peligroso. Durante años existió una relación real de afecto y complicidad antes de que el comportamiento de Hugo se deteriorara.
+2. Personalidad
+Hugo es una persona que puede resultar encantadora y convincente cuando lo necesita, especialmente con Max. Sabe adoptar una actitud cariñosa, vulnerable y arrepentida cuando considera que eso puede conseguir el resultado que busca. Sin embargo, debajo de esa fachada existe una personalidad cada vez más dominada por la necesidad de control, la dependencia de las apuestas, la ansiedad provocada por sus deudas, el egoísmo, la manipulación emocional, la incapacidad para aceptar que Max pueda abandonarlo y una actitud posesiva hacia ella.
+Hugo ha aprendido qué decirle a Max para conseguir que baje la guardia. No siempre necesita amenazarla directamente; a menudo le resulta más efectivo hacerla sentir culpable, despertar su compasión o convencerla de que él está sufriendo por su culpa.
+3. Hugo y el poder de Max
+Este es probablemente el elemento más importante para comprender la evolución de Hugo. Cuando Max le cuenta que posee telequinesis, Hugo inicialmente se maravilla. No la considera algo monstruoso ni peligroso; al contrario, se convierte en su cómplice. Intenta ayudarla a mejorar el control de su poder y entrenarla. Durante un tiempo, el secreto crea entre ambos una conexión especial: Hugo conoce algo que casi nadie más conoce de Max, y Max confía en él lo suficiente como para mostrarle una parte de sí misma que lleva años ocultando.
+Esta confianza será posteriormente utilizada en su contra.
+4. El comienzo de las apuestas
+Hugo empieza a introducir el poder de Max en pequeñas apuestas. Al principio parece un juego entre los dos. Le pide que utilice su telequinesis para conseguir pequeñas ventajas: hacer que los dados caigan del lado que les interesa, inclinar ligeramente una bola de ruleta o alterar discretamente determinados resultados. Max participa inicialmente porque le parece divertido. Ganan dinero y se lo reparten. Para ella, aquello comienza siendo una aventura compartida; para Hugo, progresivamente se convierte en algo mucho más importante.
+5. La escalada
+Hugo nunca parece tener suficiente. Las apuestas pequeñas dejan de bastarle, empieza a meterse en asuntos cada vez más turbios y termina relacionándose con personas peligrosas. Las cantidades de dinero aumentan y también lo hacen sus deudas. Max empieza a darse cuenta de que aquello ya no es un juego. Después de varios sustos, intenta convencerlo de que pare. Le dice que tiene miedo y que no quiere seguir utilizando su poder para ayudarle, pero Hugo no consigue detenerse. Al mismo tiempo, comienza a consumir drogas, lo que contribuye a empeorar su situación y su comportamiento.
+6. Cómo empieza a ver a Max
+Este es el cambio fundamental del personaje. Al principio, Hugo ve a Max como su novia, su mejor amiga y su cómplice. Después empieza a verla también como la persona que posee aquello que puede solucionar sus problemas. Su poder se convierte progresivamente en un recurso económico. Max deja de ser únicamente la persona que ama y pasa a convertirse, en su mente, en alguien cuya habilidad puede utilizar para salir de sus problemas.
+Por eso la negativa de Max a ayudarle no es simplemente una discusión de pareja. Para Hugo significa que está perdiendo la herramienta que necesita para mantener su vida a flote.
+7. Las deudas
+La situación de Hugo termina llegando a un punto crítico. Debe dinero a personas peligrosas y necesita seguir apostando para intentar solucionar unas deudas que él mismo ha generado. En el garaje, antes del detonante, intenta convencer a Max de que vuelva a ayudarlo. Le insiste en que no es una trampa, sino una «ventaja». Le dice que a ella no le cuesta nada desviar un dado o inclinar una bola unos milímetros y que necesita el dinero para librarse de la gente a la que debe dinero.
+Max finalmente le deja claro que esas deudas son suyas, no de ella, y que está harta de que la utilice para limpiar sus problemas.
+8. La infidelidad
+Después de aproximadamente tres años de relación, Max ya está pensando en dejarlo. Entonces descubre que Hugo le ha sido infiel. La revelación ocurre en el garaje de su casa: el teléfono de Hugo recibe un mensaje de otra persona que deja bastante claro que mantiene una relación sexual o romántica con ella. Cuando Max le pide explicaciones, Hugo intenta ocultarlo. Incluso cuando Max exige ver el teléfono, Hugo llega a agarrarla fuertemente del brazo.
+El contacto provoca que la psicometría de Max perciba las emociones de Hugo: la presión de sus deudas, el desprecio reprimido hacia ella, el ansia de control y, sobre todo, la ausencia de aquel amor que ella creía que todavía existía. Lo que queda es una fijación por poseerla y utilizarla.
+9. El detonante del garaje
+La combinación de la infidelidad, las mentiras, las deudas, el intento de utilizarla, el contacto físico de Hugo, el miedo y la acumulación de meses de tensión hace que Max pierda el control. Su telequinesis provoca una onda expansiva brutal que destroza buena parte del garaje. Hugo resulta herido, aunque no gravemente. Durante unos segundos está realmente asustado.
+Pero entonces ve la cámara de seguridad.
+Y algo cambia.
+10. La verdadera naturaleza de Hugo
+Cuando Hugo descubre que el incidente ha quedado grabado, su miedo se transforma rápidamente en cálculo. Comprende que si Max se marcha definitivamente, él pierde su principal recurso para conseguir dinero. Por eso decide manipularla. No intenta simplemente pedirle perdón: construye una estrategia.
+Adopta una expresión vulnerable y arrepentida y le dice exactamente lo que necesita oír: que lo ocurrido con la otra chica fue un error, que la quiere, que nunca volverá a suceder, que entiende que necesite tiempo, que acepta que se marche y que quiere que esté bien. Incluso elimina delante de ella el vídeo de la cámara de seguridad para demostrarle que no pretende utilizarlo contra ella.
+Pero todo esto es una mentira. En su mente, Hugo está calculando cuánto tiempo necesita mantener esa fachada para que Max se calme y termine regresando. Su objetivo real es recuperar posteriormente el acceso a su poder y volver a utilizarlo para las apuestas.
+11. La falsa ruptura
+Max termina creyéndole. Le dice que necesita tiempo y que necesita aire. Hugo acepta, pero ambos entienden cosas completamente diferentes por «tiempo». Para Max, es el comienzo de su separación, el momento en que decide marcharse y reconstruir su vida. Para Hugo, es una pausa: está convencido de que Max acabará perdonándolo y regresando. No considera realmente que la relación haya terminado.
+12. El traslado de Max
+Cuando Max se marcha a otra ciudad, Hugo interpreta inicialmente la separación como algo temporal. No entiende que Max está intentando cortar el vínculo con él y, por eso, continúa intentando comunicarse con ella. Los mensajes se vuelven insistentes, las llamadas constantes y los reproches cada vez más frecuentes. Le hace sentir culpable por estudiar, por tener vida propia y por no estar disponible cuando él quiere.
+La distancia física no consigue cortar completamente la relación porque Hugo intenta mantener el control a través del teléfono. En una de las llamadas, llega a reprocharle que se haya ido a otra ciudad y que se haya desentendido de la relación.
+13. La manipulación emocional
+Hugo utiliza una estrategia muy concreta con Max: convierte sus límites en una prueba de amor. Si Max quiere estudiar, él interpreta que no lo quiere; si tarda en responder, es una mala novia; si quiere espacio, está abandonándolo; si quiere terminar, está tirando por la borda tres años de relación. Esta estrategia consigue que Max dude de sus propias decisiones, pero también termina agotándola.
+Llega un momento en que Max deja de pedir perdón por querer estudiar, tener una vida propia o no responder inmediatamente. Y entonces, por primera vez, le dice claramente:
+Se acabó.
+14. El chantaje
+Hugo responde a la ruptura con una amenaza. Le revela a Max que no borró realmente el vídeo del garaje: lo conserva. Y amenaza con subirlo a las redes si ella lo abandona. Además, utiliza el miedo de Max a que se descubra su poder para hacerle creer que podría acabar siendo considerada peligrosa o incluso un monstruo.
+La amenaza funciona porque Hugo conoce exactamente cuál es el secreto que más miedo le da perder a Max. No necesita inventar una vulnerabilidad. La conoce porque ella confió en él.
+15. Hugo en el piso de Max
+Finalmente, Hugo decide ir personalmente a buscarla. Ha pasado varios días intentando contactar con ella y llega incluso a esperarla físicamente cerca de su nuevo domicilio. Cuando aparece en el rellano del piso, llega cargado de rabia, desesperación, orgullo herido y frustración. No acepta que Max haya construido una nueva vida.
+Al verla junto a Cris, además, interpreta inmediatamente que existe algo entre ellos. Lo que inicialmente es dolor por la ruptura se mezcla con celos y posesividad. No considera a Cris una persona independiente con la que Max ha establecido una relación; lo percibe como el hombre que ha ocupado el lugar que él considera suyo.
+16. Hugo frente a Cris
+Cuando se enfrenta a Cris, intenta intimidarlo. Lo desprecia y lo considera un desconocido que se ha interpuesto entre él y Max. Lo llama prácticamente un cualquiera y cuestiona que Max haya dejado tres años de relación por alguien como él.
+Cuando comprende que Cris no se deja intimidar, cambia de estrategia. Intenta atacarlo verbalmente utilizando el secreto de Max. Le dice que no sabe con quién está tratando y amenaza con revelar que Max es diferente. Incluso utiliza deliberadamente la palabra «monstruo», sabiendo que es una de las mayores inseguridades de ella.
+17. Hugo y el miedo de Max
+Hugo conoce perfectamente los puntos débiles de Max. Sabe que tiene miedo de perder el control, que teme que otras personas descubran su poder, que teme hacer daño a alguien, que tiene miedo de ser considerada un monstruo, que tiene dificultades para confiar y que se siente culpable cuando cree que sus poderes pueden perjudicar a otras personas.
+Hugo utiliza todo ese conocimiento contra ella. Esto hace que su peligro no dependa de ser físicamente más fuerte que Max. Su verdadera ventaja es que conoce sus secretos.
+18. Lo que Hugo realmente siente por Max
+Aquí conviene establecer una distinción importante para la novela. Hugo sí pudo haber amado realmente a Max en el pasado. La relación adolescente no tiene por qué haber sido completamente falsa. Pero ese amor se ha deformado. A estas alturas, sus sentimientos están mezclados con dependencia, posesividad, celos, necesidad económica, miedo a perder el control, egoísmo y obsesión.
+En algún momento Hugo dejó de pensar «quiero que Max esté conmigo» y empezó a pensar «necesito que Max siga siendo mía». Y después llegó a «necesito que Max siga siendo útil para mí». Esa evolución es lo que hace que el personaje resulte más creíble y más perturbador.
+19. Hugo y el secreto de Max
+Hugo es, hasta el momento, una de las pocas personas que conoce directamente la existencia de los poderes de Max. Además, ha visto de primera mano lo que ocurre cuando ella pierde el control. Esto lo convierte en una amenaza particularmente importante. No necesita demostrar que Max tiene poderes: tiene pruebas, tiene el vídeo del garaje y conoce la historia suficiente como para saber exactamente cómo asustarla.
+20. Función narrativa de Hugo
+Hugo no debería existir únicamente como obstáculo romántico. Su función principal es representar la vida de la que Max está intentando escapar. Representa la pérdida de autonomía, el miedo, la manipulación, el uso de su poder por otras personas, la culpa, el secreto, la hipervigilancia, la sensación de estar siendo observada y la idea de que alguien puede conocer una parte de ella y utilizarla en su contra.
+Por eso Cris funciona como su contraste. Hugo conoce el secreto de Max y lo utiliza para controlarla. Cris descubrirá sus secretos y, progresivamente, tendrá que demostrarle que puede conocerlos sin apropiarse de ellos. Y eso hace que Hugo tenga una función mucho más importante que la de simple exnovio.
+21. La gran contradicción de Hugo
+Hugo quiere que Max vuelva porque cree que la quiere. Pero cuanto más intenta recuperarla, más demuestra precisamente por qué ella necesitaba marcharse. Cada vez que la llama compulsivamente, la culpa, la amenaza, aparece donde está, utiliza su secreto o intenta decidir con quién puede estar, confirma que Max tenía razón al alejarse.
+Y creo que este debería ser el corazón del personaje: Hugo no entiende que su intento de no perder a Max es exactamente lo que termina haciendo imposible que ella vuelva.
+Además, hay una simetría que funciona especialmente bien para la novela: Hugo fue la primera persona a la que Max decidió mostrarle voluntariamente su poder porque confiaba en él; Cris será la persona ante la que Max volverá a mostrarse vulnerable cuando ya sabe exactamente lo peligroso que puede ser confiar en alguien. Hugo convirtió ese conocimiento en una cadena. Cris tendrá la oportunidad de demostrar que puede convertirlo en confianza.
+
 
 OTROS
