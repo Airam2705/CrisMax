@@ -1,14 +1,16 @@
-Sí. Lo rehago entero, manteniendo la estructura del documento maestro, incorporando todo lo que hemos desarrollado, conservando las tablas como tablas y tachando los misterios que ya hemos resuelto sin eliminarlos. En los que solo tenemos una respuesta parcial, lo indicaré como tal, pero no los marcaré como completamente resueltos.
+Sí. He integrado todo lo que hemos establecido hasta ahora, incluyendo Lorenzo, la organización, la nueva posición de Damian dentro de ella y el hecho de que Hugo no revela la psicometría de Max. He intentado que cada información tenga un único lugar donde se explique con detalle y que las demás secciones solo la utilicen cuando sea necesario.
+Para el apellido de Lorenzo, he elegido Lorenzo Vidal. Me gusta porque suena natural, discreto y suficientemente neutro como para que el personaje no resulte sospechoso desde el principio.
 BIBLIA DE LA NOVELA — MAX Y CRIS
 Documento maestro de continuidad.
-Este documento recoge la información establecida sobre la historia, los personajes, sus poderes, la evolución de las relaciones, los secretos, los misterios y la estructura narrativa. Debe actualizarse cuando se produzcan cambios importantes en la historia.
+Este documento recoge la información establecida sobre la historia, los personajes, sus poderes, la evolución de las relaciones, los secretos, los misterios, el lore oculto y la estructura narrativa. Debe actualizarse cuando se produzcan cambios importantes en la historia.
 
 1. PREMISA
 Max y Cris se conocen al convertirse en compañeros de piso mientras ambos estudian Ingeniería Aeroespacial. Ninguno esperaba encontrarse con alguien del otro sexo debido a sus nombres.
 Aparentemente son dos estudiantes normales que intentan sacar adelante una carrera exigente y sus respectivas vidas. Sin embargo, ambos esconden capacidades sobrehumanas que llevan años aprendiendo a controlar y ocultando.
-Max posee dos habilidades: puede percibir emociones, sensaciones y estados internos de otras personas mediante el contacto físico y también puede mover objetos mediante telequinesis. Cris posee capacidades físicas extraordinarias, especialmente unos reflejos y una velocidad de reacción muy superiores a los normales, y puede controlar la temperatura, tanto para generar calor como para reducirla, llegando a producir llamas o enfriar objetos y su entorno.
-Al principio ninguno conoce el secreto del otro. La convivencia hace que se acerquen progresivamente, primero como compañeros, después como amigos y finalmente como pareja. La confianza entre ambos se construye precisamente sobre aquello que más miedo les produce: permitir que otra persona conozca la parte de sí mismos que llevan años escondiendo.
-La historia combina romance, poderes, misterio y una trama criminal relacionada con el pasado de Cris, el segundo trabajo que realiza y la corrupción de Damian.
+Max posee dos habilidades: puede percibir emociones, sensaciones y estados internos de otras personas mediante el contacto físico y puede mover objetos mediante telequinesis.
+Cris posee capacidades físicas extraordinarias, especialmente unos reflejos y una velocidad de reacción muy superiores a los normales, y puede controlar la temperatura tanto para generar calor como para reducirla, llegando a producir llamas, enfriar objetos e incluso congelarlos cuando tiene suficiente control.
+Al principio ninguno conoce el secreto completo del otro. La convivencia hace que se acerquen progresivamente, primero como compañeros, después como amigos y finalmente como pareja. La confianza entre ambos se construye precisamente sobre aquello que más miedo les produce: permitir que otra persona conozca la parte de sí mismos que llevan años escondiendo.
+La historia combina romance, poderes, misterio y una trama criminal relacionada con el pasado de Cris, su segundo trabajo, Damian y una organización que lleva años localizando y controlando personas con capacidades extraordinarias.
 
 2. PERSONAJES
 MAX
@@ -30,10 +32,11 @@ Es emocionalmente perceptiva.
 Tiene una relación muy estrecha con su madre.
 Le cuesta mantenerse al margen cuando alguien que le importa está sufriendo.
 Poderes
+Max posee dos habilidades.
 Psicometría
-Max puede percibir emociones y sensaciones de otras personas mediante el contacto físico.
+Puede percibir emociones y sensaciones de otras personas mediante el contacto físico.
 No obtiene información de objetos.
-La información que percibe puede incluir:
+La información percibida puede incluir:
 emociones;
 sensaciones físicas;
 cansancio;
@@ -44,8 +47,10 @@ alivio;
 tensión;
 recuerdos o impresiones asociadas a la persona, cuando corresponda.
 La percepción es involuntaria cuando existe contacto físico.
-Por este motivo Max empieza progresivamente a evitar tocar a Cris: no quiere invadir su intimidad descubriendo lo que siente sin que él se lo haya contado.
-Esta decisión es importante para su relación.
+Por este motivo, Max empieza progresivamente a evitar tocar a Cris: no quiere invadir su intimidad descubriendo lo que siente sin que él se lo haya contado.
+Esta decisión es especialmente importante para su relación.
+La psicometría también tendrá una función importante en la trama relacionada con Lorenzo y la organización. Cuando Max conoce por primera vez al tutor de Cris, el contacto físico le permite percibir que Lorenzo miente y oculta un secreto importante, aunque no descubre cuál es ni sabe que está relacionado con Cris o con la organización.
+Más adelante, cuando Damian revela a la organización que Max posee telequinesis, la percepción que Max obtiene al volver a tocar a Lorenzo será diferente y mucho más inquietante.
 Telequinesis
 Max puede mover objetos sin contacto físico.
 Su control está relacionado con su estado emocional. Cuando está muy alterada, su poder puede manifestarse involuntariamente mediante:
@@ -60,7 +65,9 @@ Max le revela su telequinesis cuando tiene 17 años. Inicialmente ambos utilizan
 Con el tiempo, Hugo comienza a utilizarla cada vez más, mientras sus problemas con las apuestas, el dinero y las drogas empeoran.
 La relación se vuelve tóxica y Max comienza a sentirse atrapada.
 Finalmente descubre que Hugo le es infiel y decide marcharse.
-Hugo conserva posteriormente una grabación relacionada con el incidente del garaje y pretende utilizarla para recuperar el control sobre Max.
+Hugo conserva una grabación relacionada con el incidente del garaje y pretende utilizarla para recuperar el control sobre Max.
+Hugo conoce la existencia de la telequinesis, pero no conoce o no revela la existencia de la psicometría de Max. Cuando posteriormente habla con Damian sobre Max, le cuenta que puede mover objetos, pero omite su capacidad para percibir emociones mediante el contacto.
+Esta omisión será importante para la trama: la organización conocerá una parte del poder de Max, pero no sabrá que ella posee una capacidad que puede permitirle detectar que alguien está ocultando algo.
 Evolución de Max
 Max comienza la historia intentando escapar de una relación en la que ha permitido que otra persona determine qué hacer con su poder.
 Su evolución consiste en aprender que:
@@ -70,7 +77,7 @@ puede poner límites;
 puede confiar en otra persona sin perder autonomía;
 puede revelar su verdadero yo sin que eso implique ser utilizada.
 
-CRIS
+3. CRIS
 Datos básicos
 21 años aproximadamente.
 Estudia Ingeniería Aeroespacial.
@@ -122,50 +129,61 @@ generar frío de manera activa;
 llegar a congelar determinadas superficies u objetos cuando tiene suficiente control.
 Su capacidad para generar calor se manifiesta antes que su capacidad para enfriar.
 La primera manifestación conocida de su capacidad térmica ocurre aproximadamente a los diez años, cuando genera una pequeña llama.
-La capacidad de enfriar aparece de forma posterior y mucho más inesperada. Su primera manifestación importante ocurre durante el incendio en el que mueren sus padres, cuando Cris utiliza instintivamente el frío para protegerlos y combatir las llamas.
+La capacidad de enfriar aparece posteriormente y de forma mucho más inesperada. Su primera manifestación importante ocurre durante el incendio en el que mueren sus padres, cuando Cris utiliza instintivamente el frío para protegerlos y combatir las llamas.
 De adulto, Cris tiene un control térmico mucho mayor y puede alcanzar temperaturas muy elevadas o reducir considerablemente la temperatura de su entorno. El alcance y la precisión dependen de su concentración, su estado físico y emocional y su experiencia.
-Su control está relacionado con sus emociones.
-Cuando se pone nervioso, especialmente cuando Max está demasiado cerca, puede resultarle más difícil controlar la temperatura.
-Esto provoca que:
+Su control está relacionado con sus emociones. Cuando se pone nervioso, especialmente cuando Max está demasiado cerca, puede resultarle más difícil controlar la temperatura.
+Esto puede provocar que:
 su piel esté más caliente;
 tenga que concentrarse para controlar el poder;
-pueda producir calor involuntariamente;
-en situaciones extremas, el poder pueda manifestarse.
+produzca calor involuntariamente;
+en situaciones extremas, el poder se manifieste.
 La cercanía de Max afecta especialmente a su control térmico.
 Pasado
 Cris perdió a sus padres cuando tenía aproximadamente diez años, en un incendio provocado deliberadamente.
 Antes del incendio, Cris había comenzado a llamar la atención por sus capacidades.
-El primer indicio no estuvo relacionado con sus reflejos, sino con su resistencia al calor. En una ocasión, siendo todavía niño, tocó accidentalmente un objeto a una temperatura que debería haberle provocado una quemadura importante y apenas resultó afectado.
+El primer indicio no estuvo relacionado con sus reflejos, sino con su resistencia al calor. Siendo todavía niño, tocó accidentalmente un objeto a una temperatura que debería haberle provocado una quemadura importante y apenas resultó afectado.
 Este hecho llamó la atención de personas que conocían la existencia de capacidades extraordinarias y comenzaron a observarlo.
 Poco después, Cris manifestó por primera vez su capacidad para generar calor y pequeñas llamas.
-Estas personas intentaron contactar con sus padres y propusieron utilizar o entrenar a Cris. Sus padres se negaron.
-Después de la negativa, los padres de Cris comenzaron a sospechar que estaban siendo vigilados. Detectaron comportamientos extraños, personas interesándose por Cris y otras señales que les hicieron comprender que quienes habían contactado con ellos no habían abandonado su interés.
-Sus padres intentaron protegerlo y tomaron algunas precauciones. Entre ellas se encontraban medidas adicionales relacionadas con la detección de incendios en la vivienda.
+Las personas que lo habían localizado intentaron contactar con sus padres y propusieron utilizar o entrenar a Cris. Sus padres se negaron.
+Después de la negativa, los padres comenzaron a sospechar que estaban siendo vigilados. Detectaron comportamientos extraños, personas interesándose por Cris y otras señales que les hicieron comprender que quienes habían contactado con ellos no habían abandonado su interés.
+Intentaron protegerlo y tomaron algunas precauciones, entre ellas medidas adicionales relacionadas con la detección de incendios en la vivienda.
 Finalmente, las personas interesadas en Cris provocaron un incendio en la casa.
 El objetivo era eliminar a sus padres y crear en Cris un trauma que pudiera utilizarse posteriormente para controlarlo.
-Los responsables sabían que Cris podía soportar temperaturas que habrían resultado extremadamente peligrosas para una persona normal. Sin embargo, desconocían que su capacidad térmica también podía utilizarse en sentido contrario.
-Durante el incendio, Cris intentó proteger a sus padres.
-En una situación extrema manifestó por primera vez su capacidad para enfriar objetos y reducir la temperatura de su entorno.
+Los responsables conocían la resistencia de Cris al calor, pero desconocían inicialmente que su capacidad térmica también podía funcionar en sentido contrario.
+Durante el incendio, Cris intentó proteger a sus padres. En una situación extrema manifestó por primera vez su capacidad para enfriar objetos y reducir la temperatura de su entorno.
 Utilizó esta capacidad de forma instintiva para combatir las llamas y proteger a sus padres. Llegó a interponerse entre ellos y el fuego y estuvo cerca de conseguir contener el incendio por sí mismo.
-Las personas que habían provocado el incendio no habían previsto esta capacidad.
-Uno de los implicados entró en la vivienda y dejó inconsciente a Cris antes de que pudiera continuar utilizando su poder para extinguir el fuego.
+Los responsables no habían previsto esta capacidad.
+Una persona relacionada con ellos entró en la vivienda y dejó inconsciente a Cris antes de que pudiera continuar utilizando su poder para extinguir el fuego.
 Cris sobrevivió gracias a su resistencia natural al calor, pero sus padres murieron.
-Durante años, Cris conservó recuerdos fragmentarios de aquella noche: el fuego, el frío, sus padres, una figura acercándose y el momento en que perdió el conocimiento.
-Sin embargo, debido al trauma y a la información que recibió posteriormente, interpretó esos recuerdos como prueba de que él había provocado el incendio y había causado la muerte de sus padres.
+Durante años conservó recuerdos fragmentarios de aquella noche: el fuego, el frío, sus padres, una figura acercándose y el momento en que perdió el conocimiento.
+Debido al trauma y a la información que recibió posteriormente, interpretó esos recuerdos como prueba de que él había provocado el incendio y había causado la muerte de sus padres.
 La verdad es que Cris intentó salvarlos y estuvo cerca de conseguirlo antes de ser reducido.
 La culpa que ha cargado durante años fue creada y reforzada deliberadamente.
 Las circunstancias del incendio fueron manipuladas posteriormente para ocultar su verdadero origen y evitar que quedaran pruebas de la existencia de las capacidades de Cris.
 Entre las anomalías relacionadas con el caso se encuentran:
 el origen del incendio no coincide completamente con lo que Cris recuerda;
 los sistemas de detección de incendios de la vivienda presentan irregularidades que podrían indicar manipulación previa;
-las principales salidas de la vivienda fueron encontradas cerradas, dificultando que los padres de Cris pudieran escapar;
+las principales salidas de la vivienda fueron encontradas cerradas, dificultando que sus padres pudieran escapar;
 existen indicios de que una persona relacionada con los responsables pudo entrar en la vivienda durante el incendio;
 los padres de Cris habían mostrado preocupación por estar siendo vigilados poco antes de morir;
 la documentación oficial del incendio contiene aspectos incompletos o inconsistentes que podrían haber sido alterados para ocultar la verdadera naturaleza del caso.
-Todavía no está establecido exactamente quién organizó el incendio, quién entró en la vivienda, qué personas participaron directamente y cuál fue el papel concreto de Damian.
+La verdad completa sobre el incendio está relacionada con la organización.
+Lorenzo Vidal
+Después de quedar huérfano, Cris fue llevado a una casa de acogida.
+Lorenzo Vidal apareció en su vida durante esa etapa y se convirtió en una figura de referencia para él. Cris cree sinceramente que Lorenzo fue una de las personas que más lo ayudó después de perder a sus padres.
+Lorenzo pertenece a la misma organización que estuvo detrás del incendio, pero Cris no lo sabe.
+Cris tampoco sabe que las personas que estuvieron relacionadas con su infancia, su acogida y el incendio forman parte de una misma estructura.
+La organización ha mantenido a Cris bajo su influencia desde que quedó huérfano, sin que él sea consciente de ello.
+En algún momento de la historia, Cris llegará a considerar a Lorenzo una persona lo bastante importante como para presentárselo a Max. La intención de Cris será comparable a la de Max cuando le presentó a sus padres: quiere que una persona importante para él conozca a otra persona importante para él.
+En ese primer encuentro, Cris y Max todavía pueden no haber iniciado formalmente una relación.
+Cris sabe que Max posee poderes, pero no le corresponde revelar el secreto de ella. Por eso no le cuenta a Lorenzo que Max tiene telequinesis.
+Cuando Max estrecha la mano de Lorenzo, su psicometría le permite percibir inmediatamente que no es una persona de fiar: Lorenzo miente y oculta un secreto importante. Sin embargo, Max no sabe qué secreto es, no sospecha todavía de la organización y tampoco sabe que ella misma está en peligro.
+Para Lorenzo, la aparición de Max resulta inquietante por otro motivo: teme que Cris pueda distraerse, vincularse emocionalmente demasiado a alguien o empezar a alejarse de la trayectoria que la organización ha mantenido bajo control durante años.
+En ese primer encuentro Lorenzo todavía no sabe que Max posee poderes.
+Más adelante, después de que Damian revele a la organización que Max tiene telequinesis, la situación cambia. Cuando Max vuelva a encontrarse con Lorenzo, la impresión psicométrica que reciba de él será mucho más significativa. Lorenzo ya tendrá información sobre ella y sobre sus capacidades, aunque seguirá sin conocer su psicometría.
 Segundo trabajo
 Cris necesita dinero para pagar sus estudios.
-Su segundo trabajo es nocturno y peligroso y está relacionado con sus capacidades.
+Su segundo trabajo es nocturno, peligroso y está relacionado con sus capacidades.
 La naturaleza exacta del trabajo y su relación con la trama criminal todavía deben desarrollarse completamente.
 Debe determinarse:
 para quién trabaja;
@@ -186,7 +204,7 @@ puede mostrar sus capacidades sin perder el control;
 no tiene que cargar él solo con la culpa de su pasado;
 puede aceptar que alguien lo quiera conociendo quién es realmente.
 
-3. HUGO
+4. HUGO
 Hugo es el antiguo novio de Max.
 Inicialmente fue una persona importante y cercana para ella, lo que hace que la ruptura resulte especialmente complicada.
 Evolución
@@ -206,39 +224,96 @@ Después de la ruptura continúa intentando conseguir que Max vuelva a ayudarlo.
 Situación futura
 Hugo sigue necesitando dinero y tiene detrás a personas peligrosas.
 Después de que Max se niegue definitivamente a ayudarlo, Hugo queda en una situación complicada.
-Más adelante empieza a merodear cerca de la universidad.
-Allí descubre que Max está muy unida a Cris y llega a interpretar que Cris es el hombre que lo ha sustituido.
-Esta situación permite que Damian descubra la existencia de Cris y Max como pareja o personas cercanas.
-Posteriormente Damian puede ponerse en contacto con Hugo y utilizar su resentimiento contra Cris en beneficio propio.
-La grabación del garaje continúa siendo una herramienta de presión potencial sobre Max, pero no es la única vía mediante la que Damian puede obtener información sobre ella.
+Más adelante empieza a merodear cerca de la universidad. Allí descubre que Max está muy unida a Cris y llega a interpretar que Cris es el hombre que lo ha sustituido.
+Esta situación permite que Damian descubra la existencia de Cris y Max como personas cercanas.
+Damian contacta con Hugo y aprovecha su resentimiento contra Cris.
+Hugo puede terminar revelando a Damian que Max posee telequinesis.
+La grabación del garaje continúa siendo una herramienta de presión potencial sobre Max.
+Sin embargo, cuando Hugo comprende las consecuencias de haber puesto a Max en manos de Damian y de la organización, puede arrepentirse de lo que ha hecho.
 Resolución pendiente
 Todavía debemos decidir exactamente qué ocurre con Hugo al final.
 
-4. DAMIAN
-Damian es una figura relacionada con la trama criminal y con el pasado de Cris.
-Es un policía corrupto o está relacionado con una estructura policial corrupta.
+5. DAMIAN
+Damian es un policía corrupto y miembro de bajo nivel de la organización relacionada con Cris.
+No ocupa una posición elevada dentro de ella.
+Conoce la existencia de personas con capacidades extraordinarias y conoce los protocolos básicos relacionados con ellas, pero no tiene un poder importante dentro de la estructura.
+Relación con Cris
+Damian conoce los poderes de Cris.
+Cris, sin embargo, no sabe que Damian pertenece a la organización ni que conoce su verdadera naturaleza.
+Damian ha tenido algún conflicto con Cris relacionado con una de sus operaciones o con su segundo trabajo.
+El conflicto provoca un fuerte resentimiento personal.
+Damian decide intentar perjudicar o deshacerse de Cris por iniciativa propia, no porque la organización se lo haya ordenado.
+Esta decisión es especialmente grave porque Cris es un activo importante para la organización.
+Max descubre que Damian trama algo contra Cris y se lo advierte, impidiendo que la operación salga como Damian había previsto.
+Consecuencias dentro de la organización
+La organización descubre que Damian ha intentado dañar por motivos personales a uno de sus activos importantes.
+Damian comprende que puede enfrentarse a consecuencias muy graves.
+Como forma de protegerse, utiliza la información que posee sobre Max.
+A través de Hugo descubre que Max tiene telequinesis y presenta esa información ante la organización como una forma de demostrar que puede ofrecerles algo valioso.
+La organización considera muy interesante la existencia de Max, pero Damian no sabe que Hugo ha omitido un dato fundamental: la psicometría.
+Por tanto, la organización conoce la telequinesis de Max, pero inicialmente desconoce que Max puede percibir mediante el contacto físico cuándo una persona miente o esconde algo.
+Damian intenta utilizar a Max como una especie de moneda de cambio para evitar las consecuencias de haber actuado contra Cris.
+La intención de Damian es entregar a la organización un nuevo activo.
+La organización, sin embargo, no tiene por qué perdonarlo. Su información puede resultar útil y, una vez obtenida, Damian puede dejar de ser necesario.
+La resolución prevista es que la organización termine deshaciéndose de Damian después de utilizar la información que les ha proporcionado, aunque la forma concreta todavía debe decidirse.
+Relación con el incendio
+Damian pertenece a la misma organización que estuvo detrás del incendio de los padres de Cris.
+Sin embargo, su nivel dentro de la organización era bajo y todavía debe determinarse si participó directamente en aquella operación o si conoce los hechos por información interna.
+Lo importante es que Damian no es necesariamente quien ordenó el incendio.
+La organización está por encima de él.
 Motivaciones
-Tiene interés en Cris.
-Quiere perjudicarlo.
-Puede estar relacionado con el segundo trabajo de Cris.
-Está relacionado con la tragedia que acabó con la vida de sus padres.
-Puede conocer aspectos de su pasado que Cris desconoce.
-Puede utilizar a Hugo para llegar hasta Cris.
-Relación con el pasado de Cris
-Damian está relacionado con las personas que estuvieron detrás del incendio en el que murieron los padres de Cris.
-Todavía debe determinarse cuál fue exactamente su papel en aquella época: si participó directamente en la operación, si recibió información sobre ella, si formaba parte de la estructura que intentó reclutar a Cris o si posteriormente intervino para ocultar las pruebas.
-En el presente, Damian tiene interés en impedir que Cris descubra la verdad.
-Parte de su actividad puede consistir en localizar, eliminar o manipular pruebas relacionadas con el incendio y con las circunstancias que rodearon la muerte de los padres de Cris.
-Posible estrategia
-Damian descubre que Hugo tiene resentimiento hacia Cris.
-Hugo cree que Max se está alejando de él porque Cris lo ha sustituido.
-Damian aprovecha esta situación y contacta con Hugo para utilizarlo contra Cris.
-La grabación del garaje puede convertirse en otra herramienta de presión sobre Max.
+Resentimiento personal contra Cris.
+Interés en sus capacidades.
+Deseo de protegerse de las consecuencias de haber actuado contra un activo de la organización.
+Posible interés en eliminar pruebas que puedan relacionarlo con el pasado de Cris.
+Deseo de obtener valor dentro de la organización utilizando a Max.
 Resolución prevista
-Damian termina siendo descubierto y acaba detenido o condenado.
-Su caída permite que Cris descubra finalmente la verdad sobre su pasado.
+Damian termina siendo descubierto y acaba detenido, condenado o eliminado por la propia organización, dependiendo de cómo se resuelva finalmente su arco.
+Su caída contribuye a que Cris pueda descubrir la verdad sobre su pasado.
 
-5. LAURA
+6. LA ORGANIZACIÓN
+La organización es una estructura clandestina que busca localizar, estudiar, reclutar y utilizar personas con capacidades extraordinarias.
+No se limita a Cris.
+A lo largo del mundo existen o han existido otras personas con capacidades, aunque la organización procura evitar que sus miembros sepan demasiado sobre los demás.
+Objetivos
+La organización busca obtener beneficios mediante las capacidades de estas personas.
+Las personas con poderes son consideradas recursos o activos.
+Cuando localizan a una persona, pueden intentar:
+reclutarla;
+entrenarla;
+estudiar sus capacidades;
+utilizarla para determinados trabajos;
+mantenerla bajo control.
+Aislamiento
+La organización procura que las personas con capacidades no interactúen entre sí.
+Una persona que cree ser la única puede sentirse más aislada, más vulnerable y más dependiente de quienes controlan su entorno.
+Este aspecto puede formar parte del lore oculto de la novela y podría desarrollarse en una historia posterior si el universo se ampliara a varios libros.
+En esta novela no es necesario explicar completamente cuántas personas existen ni cuántas han sido localizadas.
+Cris
+La organización localizó a Cris cuando era niño.
+Primero llamó su atención su resistencia al calor y posteriormente su manifestación térmica.
+Intentaron reclutarlo a través de sus padres.
+Después de que estos se negaran, organizaron el incendio que provocó su muerte.
+Desde que Cris quedó huérfano, la organización ha continuado teniendo influencia sobre su vida sin que él sea consciente de ello.
+Lorenzo pertenece a la organización y ha actuado como figura de referencia para Cris desde su infancia.
+Cris cree que Lorenzo simplemente fue una persona que lo ayudó después de perder a sus padres.
+Max
+La organización nunca ha localizado a Max durante su infancia.
+Si hubieran sabido de sus capacidades, probablemente habrían intentado reclutarla o controlarla.
+Max ha tenido suerte de no ser descubierta.
+La situación cambia cuando Hugo revela a Damian que Max posee telequinesis.
+La organización pasa entonces a conocer su existencia.
+Sin embargo, Hugo no revela la psicometría.
+Esto genera una ventaja narrativa importante: la organización cree conocer las capacidades de Max, pero desconoce que puede percibir información emocional mediante el contacto físico.
+Por ello, no anticipan que Max pueda sospechar de Lorenzo o descubrir que algunas personas de la organización están ocultando información.
+Damian dentro de la organización
+Damian ocupa un nivel bajo.
+No tiene autoridad suficiente para ordenar operaciones importantes.
+Puede tener funciones relacionadas con operaciones policiales, vigilancia, información o conexión con determinados activos.
+Su intento de actuar contra Cris es una iniciativa personal y una violación de los intereses de la organización.
+La organización considera especialmente grave que haya puesto en peligro a un activo importante por una venganza personal.
+
+7. LAURA
 Compañera de trabajo de Cris en la cafetería.
 Conoce bien a Cris.
 Tiene confianza suficiente para bromear con él.
@@ -248,7 +323,7 @@ Conoce a Max cuando esta visita la cafetería.
 Max y Laura conectan rápidamente.
 Laura sirve también para mostrar a Max una versión de Cris diferente de la que conoce en casa.
 
-6. LOS PADRES DE MAX
+8. LOS PADRES DE MAX
 Max mantiene una relación cercana con sus padres, especialmente con su madre.
 Su madre:
 se preocupa por ella;
@@ -260,39 +335,43 @@ quiere asegurarse de que tiene todo lo necesario.
 En algún momento de la historia pueden visitar a Max.
 La visita puede tener una función emocional importante para Cris: observar la relación familiar de Max puede hacerle pensar en sus propios padres y en aquello que perdió.
 
-7. PODERES Y REGLAS GENERALES
+9. PODERES Y REGLAS GENERALES
 Max
 Psicometría
-Solo mediante contacto físico con personas.
+Solo funciona mediante contacto físico con personas.
 No funciona sobre objetos.
 La percepción es involuntaria.
-Max puede descubrir emociones que la otra persona no expresa.
-Esto genera un conflicto ético: conocer algo no significa que tenga derecho a utilizarlo.
-Con Cris intenta especialmente respetar esta intimidad.
+Puede descubrir emociones que la otra persona no expresa.
+Puede percibir sensaciones físicas, cansancio, dolor, miedo, atracción, alivio y tensión.
+Puede recibir recuerdos o impresiones asociadas a la persona cuando corresponda.
+Conocer algo mediante la psicometría no significa que Max tenga derecho a utilizarlo.
+Max evita utilizar conscientemente su capacidad para controlar o manipular a Cris.
 Telequinesis
 Puede mover objetos sin contacto.
 Las emociones fuertes pueden provocar manifestaciones involuntarias.
-El entrenamiento mejora su control.
-La rabia, miedo o angustia pueden hacer que pierda precisión.
+El entrenamiento mejora el control.
+La rabia, el miedo o la angustia pueden hacer que pierda precisión.
 Cris
 Reflejos
 Reacción sobrehumana.
 No supervelocidad.
 Puede atrapar objetos antes de que una persona normal pueda reaccionar.
 Su capacidad es especialmente útil en situaciones peligrosas.
-Tiene experiencia práctica con ella.
+Tiene experiencia práctica con ella debido a su segundo trabajo.
 Temperatura
-Puede controlar la temperatura en ambos sentidos.
 Puede generar y aumentar el calor.
 Puede producir llamas.
-Puede reducir la temperatura y generar frío.
-Puede enfriar objetos y, con suficiente concentración y potencia, congelarlos.
-Su capacidad térmica no se limita a producir fuego.
+Puede reducir la temperatura.
+Puede generar frío.
+Puede enfriar objetos.
+Puede congelar determinadas superficies u objetos con suficiente concentración.
+El poder funciona en ambos sentidos.
+De niño tiene mucho menos control y potencia.
+De adulto sus capacidades son considerablemente superiores.
 Las emociones interfieren con el control.
-La cercanía de Max puede dificultar especialmente el control térmico de Cris.
-El poder térmico evoluciona con la experiencia: sus capacidades como adulto son considerablemente superiores a las que tenía durante la infancia.
+La cercanía de Max puede dificultar especialmente el control térmico.
 
-8. EVOLUCIÓN MAX ↔ CRIS
+10. EVOLUCIÓN MAX ↔ CRIS
 Etapa 1 — Compañeros de piso
 Max llega al piso.
 Cris le parece:
@@ -318,6 +397,7 @@ Max percibe que Cris oculta algo.
 Cris observa manifestaciones extrañas de la telequinesis de Max.
 Ninguno conoce todavía el secreto completo del otro.
 Cris también empieza a mostrar deliberadamente pequeños indicios de sus reflejos para observar la reacción de Max.
+En esta etapa puede aparecer también la primera semilla involuntaria de duda sobre el pasado de Cris: Max comenta casualmente alguna incongruencia relacionada con incendios, sistemas de detección, salidas cerradas u otro detalle aparentemente ajeno a Cris. Sin saberlo, provoca que determinados recuerdos de la muerte de sus padres vuelvan a su cabeza y empiece a preguntarse si todo ocurrió realmente como siempre había creído.
 Etapa 4 — Distancia
 Después de que Max descubra que el contacto físico puede permitirle percibir las emociones de Cris, comienza a evitar determinados roces.
 No quiere invadir su privacidad.
@@ -330,8 +410,14 @@ La telequinesis se manifiesta claramente.
 Cris descubre que Max posee un segundo poder.
 Max se lo confiesa.
 Cris finalmente le revela su poder térmico.
-Ambos comprenden que han estado ocultando partes importantes de sí mismos.
-Durante un abrazo, Max percibe:
+Cris crea una pequeña llama para mostrárselo.
+Después puede demostrar que su poder no consiste únicamente en generar fuego: congela la llama, transformándola en una pequeña figura de hielo con forma de llama.
+Max queda fascinada por el resultado.
+Cuando Max reacciona emocionada, Cris puede responder con algo como:
+—No tanto como tú.
+Después Max lo abraza y le da las gracias por haber compartido su secreto con ella.
+Para Max, ese momento tiene un significado especialmente importante: por primera vez siente que ya no está tan sola con su poder.
+Durante el abrazo, Max percibe:
 miedo;
 alivio;
 atracción;
@@ -355,161 +441,295 @@ La tensión sexual aumenta.
 Ambos saben que se atraen.
 Ya no intentan fingir lo contrario.
 
-9. MATRIZ DE SECRETOS Y CONOCIMIENTOS
+11. MATRIZ DE SECRETOS Y CONOCIMIENTOS
 Información
 Max
 Cris
 Hugo
 Damian
+Lorenzo
+Organización
 Lector
 Psicometría de Max
 Sí
 Sí
-Sí
-Pendiente
+No / no la revela
+No
+No inicialmente
+No inicialmente
 Sí
 Telequinesis de Max
 Sí
 Sí desde Visita no deseada
 Sí
-Pendiente
+Sí
+No inicialmente
+Sí después de Hugo
 Sí
 Poder térmico de Cris
 Sí desde Visita no deseada
 Sí
 No establecido
-Pendiente
+Sí
+Sí
+Sí
 Sí
 Capacidad de enfriamiento de Cris
-No
+Sí desde Visita no deseada
 Sí
 No establecido
-Pendiente
+Sí
+Sí
+Sí
 Sí
 Reflejos de Cris
 Los sospecha y posteriormente los descubre progresivamente
 Sí
 No establecido
-Pendiente
+Sí
+Sí
+Sí
 Sí
 Segundo trabajo de Cris
 Sabe que existe
 Sí
 No establecido
 Relacionado
+Puede conocer parte
+Sí / relacionado
 Parcial
 Pasado de Cris
 No
 Sí parcialmente
 No
 Sí
+Sí
+Sí
 Parcial
 Muerte de los padres de Cris
 No
-Sí parcialmente
 No
-Sí/posiblemente
+No
+Sí / posiblemente
+Sí
+Sí
 Parcial
 Verdadero origen del incendio
 No
 No
 No
-Sí/posiblemente
+Sí / posiblemente
+Sí
+Sí
 Sí
 Cris intentó salvar a sus padres
 No
 No
 No
-Sí/posiblemente
+Sí / posiblemente
+Sí
+Sí
 Sí
 Primera manifestación importante del frío durante el incendio
 No
 No
 No
-Sí/posiblemente
+Sí / posiblemente
+Sí
+Sí
 Sí
 Cris fue dejado inconsciente durante el incendio
 No
 No
 No
-Sí/posiblemente
+Sí / posiblemente
 Sí
-Vigilancia de los padres de Cris antes del incendio
+Sí
+Sí
+Vigilancia de los padres antes del incendio
 No
 No
 No
-Sí/posiblemente
+Sí / posiblemente
+Sí
+Sí
 Parcial
-Salidas de la casa cerradas durante el incendio
+Salidas de la casa cerradas
 No
 No
 No
-Sí/posiblemente
+Sí / posiblemente
+Sí
+Sí
 Parcial
-Irregularidades en los detectores de incendios
+Irregularidades en detectores
 No
 No
 No
-Sí/posiblemente
+Sí / posiblemente
+Sí
+Sí
 Parcial
 Grabación del garaje
 No
 Sí
 Sí
-Pendiente
+Pendiente / puede conocerla
+No
+No necesariamente
+Sí
+Existencia de la organización
+No inicialmente
+No
+No inicialmente
+Sí
+Sí
+Sí
+Parcial
+Pertenencia de Lorenzo a la organización
+No
+No inicialmente
+No
+Sí
+Sí
+Sí
+No
+Relación de Lorenzo con el pasado de Cris
+No
+No inicialmente
+No
+Sí
+Sí
+Sí
+Parcial
+Damian pertenece a la organización
+No
+No
+No
+Sí
+Sí
+Sí
+Sí
+Damian quiere perjudicar a Cris por venganza personal
+No inicialmente
+No
+No
+Sí
+Puede saberlo
+Sí después de descubrirlo
+Parcial
+La organización considera a Cris un activo importante
+No
+No
+No
+Sí
+Sí
+Sí
+Parcial
+La organización conoce la telequinesis de Max
+No inicialmente
+No aplica
+Sí
+Sí
+No inicialmente
+Sí después de Hugo
+Sí
+La organización conoce la psicometría de Max
+Sí
+Sí
+No / no la revela
+No
+No
+No inicialmente
 Sí
 Sentimientos de Cris hacia Max
 Sí desde Visita no deseada
 Sí
 No
 No establecido
+No necesariamente
+No
 Sí
 Sentimientos de Max hacia Cris
 Sí progresivamente
 Sí
 No
 No
+No
+No
 Sí
 Esta tabla debe actualizarse después de cada revelación importante.
 
-10. MISTERIOS ABIERTOS
+12. MISTERIOS ABIERTOS
 Cris
-¿Qué ocurrió realmente con sus padres? Resuelto parcialmente: sus padres fueron víctimas de un incendio provocado deliberadamente. Cris intentó salvarlos y fue dejado inconsciente antes de poder extinguir completamente el fuego.
 ¿Fue responsable Cris de alguna manera o le hicieron creer que lo era? Resuelto: Cris no provocó conscientemente el incendio. La culpa fue inducida y reforzada deliberadamente.
+¿Qué ocurrió realmente con sus padres? Resuelto parcialmente: sus padres fueron víctimas de un incendio provocado deliberadamente. Cris intentó salvarlos y fue dejado inconsciente antes de poder extinguir completamente el fuego.
 ¿Quién organizó el incendio?
 ¿Quién ordenó la operación?
 ¿Quiénes eran las personas que intentaron reclutar a Cris?
-¿Qué relación tenían esas personas con la estructura en la que posteriormente aparece Damian?
 ¿Quién entró en la casa durante el incendio y dejó inconsciente a Cris?
 ¿Cómo fueron manipuladas las pruebas del incendio?
 ¿Por qué las salidas de la casa estaban cerradas?
 ¿Qué ocurrió exactamente con los detectores de incendios?
-¿Qué relación tiene Damian con aquella tragedia? Resuelto parcialmente: Damian está relacionado con las personas responsables o con la estructura detrás de la tragedia, pero todavía no sabemos cuál fue exactamente su papel.
-¿Qué sabe Damian sobre Cris?
+¿Qué papel concreto tuvo la organización en el incendio?
+¿Qué papel tuvo Lorenzo?
+¿Participó Lorenzo directamente o su intervención fue posterior?
+¿Qué sabe Cris realmente sobre Lorenzo?
 ¿Qué es exactamente el segundo trabajo?
 ¿Para quién trabaja Cris?
 ¿Hay policías corruptos implicados?
-¿Cris trabaja voluntariamente o existe algún tipo de presión/chantaje?
+¿Cris trabaja voluntariamente o existe algún tipo de presión o condicionamiento?
 ¿Qué ha descubierto Cris durante sus investigaciones?
+Organización
+¿Cuál es exactamente su objetivo final?
+¿Desde cuándo existe?
+¿Hasta dónde llega su estructura?
+¿Cuántas personas con capacidades han localizado?
+¿Qué hacen exactamente con las personas que reclutan?
+¿Qué otros activos tienen?
+¿Cómo localizan a las personas con capacidades?
+¿Por qué mantienen aislados a sus activos?
+¿Qué papel ocupa Lorenzo dentro de la organización?
+¿Qué posición ocupa realmente Damian?
+¿Qué consecuencias tiene para Damian haber actuado contra Cris?
+¿Qué decide hacer la organización con Damian después de descubrir su traición?
+¿Qué pretende hacer la organización con Max?
 Hugo
 ¿Qué hará cuando Max se niegue definitivamente a ayudarlo?
 ¿Cómo consigue conservar la grabación?
 ¿Cómo utiliza la grabación?
 ¿Hasta dónde llegará para conseguir dinero?
 ¿Qué relación termina estableciendo con Damian?
+¿Por qué decide contarle a Damian que Max tiene telequinesis?
+¿Por qué no le cuenta que Max también posee psicometría?
+¿Se arrepentirá de haber puesto a Max en peligro?
+¿Intentará ayudarla después?
 ¿Cuál será su destino final?
 Damian
 ¿Por qué quiere perjudicar a Cris?
-¿Qué relación tiene con sus padres? Resuelto parcialmente: está relacionado con la estructura que estuvo detrás de la tragedia, pero falta determinar su implicación concreta.
-¿Qué papel tuvo en el pasado de Cris?
+Resuelto: su ataque contra Cris parte principalmente de un conflicto y un resentimiento personal, no de una orden de la organización.
+¿Qué relación concreta tiene con el pasado de Cris?
 ¿Participó directamente en la operación contra los padres de Cris?
-¿Por qué está interesado en sus capacidades?
 ¿Qué sabe realmente sobre el incendio?
 ¿Qué pruebas intenta ocultar o eliminar?
 ¿Qué pretende conseguir utilizando a Hugo?
+¿Qué información obtiene de Hugo?
+¿Qué hace exactamente para ofrecer a Max a la organización?
+¿Cómo reacciona la organización ante su traición?
 ¿Cómo acaba siendo descubierto?
+¿Qué ocurre con él después de que la organización deje de necesitarlo?
+Lorenzo
+¿Qué posición ocupa dentro de la organización?
+¿Cuál fue exactamente su papel después de la muerte de los padres de Cris?
+¿Ayudó a que Cris terminara bajo su influencia?
+¿Qué sabe sobre la verdadera historia del incendio?
+¿Qué sabe sobre los poderes de Cris?
+¿Ha estado vigilando a Cris durante todos estos años?
+¿Hasta qué punto siente afecto real por Cris y hasta qué punto su relación ha sido una manipulación?
+¿Qué hará cuando descubra que Max puede percibir que oculta algo?
+¿Cómo cambiará su comportamiento después de conocer la existencia de los poderes de Max?
 
-11. ESTRUCTURA GENERAL DE LA NOVELA
+13. ESTRUCTURA GENERAL DE LA NOVELA
 ACTO I — LLEGADA
 Llegada de Max.
 Primer encuentro con Cris.
@@ -532,6 +752,8 @@ Lo que no se puede saber.
 Hugo vuelve a presionar a Max.
 La llamada de Hugo.
 Max rompe definitivamente con Hugo.
+Primeras pequeñas semillas de duda relacionadas con el pasado de Cris.
+Aparición progresiva de anomalías o recuerdos que Cris había aprendido a interpretar de una determinada manera.
 ACTO III — REVELACIÓN Y ROMANCE
 Tiempo de adaptación después de la ruptura.
 Max y Cris se sienten cada vez más atraídos.
@@ -541,7 +763,9 @@ Cris empieza a distanciarse por miedo a hacerle daño.
 Visita no deseada.
 Revelación de la telequinesis.
 Revelación del poder térmico.
-Abrazo y percepción de las emociones de Cris.
+Cris muestra también su capacidad de enfriamiento.
+Max percibe las emociones de Cris durante el abrazo.
+Ambos dejan de sentirse completamente solos con sus poderes.
 Entrenando.
 Primer beso.
 Jugando con fuego.
@@ -554,30 +778,47 @@ Hugo utiliza la grabación.
 Hugo comienza a merodear cerca de la universidad.
 Damian descubre la existencia de Cris y Max.
 Damian utiliza el resentimiento de Hugo.
+Damian conoce la telequinesis de Max.
+Damian desconoce la psicometría de Max.
+Damian intenta actuar contra Cris por venganza personal.
+Max descubre que Damian trama algo y advierte a Cris.
+La organización descubre que Damian ha atacado a un activo importante.
+Damian intenta utilizar a Max como moneda de cambio.
+Hugo se arrepiente de haber revelado información sobre Max.
+La organización adquiere interés en Max.
 El segundo trabajo de Cris adquiere mayor importancia.
 Aparecen pistas sobre los padres de Cris.
 Cris descubre irregularidades relacionadas con el incendio.
 Aparecen pruebas sobre la vigilancia que sufrieron sus padres.
 Cris descubre anomalías relacionadas con los detectores de incendios.
 Se descubre que las salidas de la casa estaban cerradas.
+Aparecen indicios de que alguien entró en la vivienda durante el incendio.
+Cris comienza a cuestionar la versión que ha mantenido durante años.
+Max conoce a Lorenzo.
+La psicometría de Max le permite detectar que Lorenzo oculta algo.
+Posteriormente, la información que Damian proporciona sobre Max cambia la situación entre ella y Lorenzo.
 Cris y Max tienen que enfrentarse a una amenaza real.
-La investigación acerca progresivamente a Cris hasta Damian.
+La investigación acerca progresivamente a Cris hasta Damian y la organización.
 ACTO V — RESOLUCIÓN
 Objetivos previstos:
-Damian es descubierto y termina detenido/condenado.
+Damian es descubierto.
+La organización se vuelve contra Damian o decide eliminarlo después de utilizar su información.
+Damian termina detenido, condenado o eliminado, según la resolución definitiva.
 Cris descubre la verdad sobre sus padres.
 Cris descubre que intentó salvarlos durante el incendio.
 Cris descubre que su capacidad para enfriar fue lo que le permitió enfrentarse al fuego.
 Cris descubre que otra persona lo dejó inconsciente antes de que pudiera salvarlos.
 Cris deja de cargar con una culpa que no le corresponde.
 Se resuelve el conflicto relacionado con su segundo trabajo.
+Se descubre la verdadera relación entre Damian, Lorenzo y la organización.
 Hugo recibe las consecuencias de sus decisiones.
 Max deja definitivamente de permitir que Hugo controle sus decisiones mediante miedo o chantaje.
 Max comprende que poner límites no significa abandonar a alguien.
 Cris aprende que proteger a alguien no significa necesariamente alejarlo.
 Max y Cris terminan juntos.
+La existencia completa de la organización puede quedar parcialmente abierta como lore del universo, permitiendo una posible continuación en el futuro sin necesidad de resolver todos sus aspectos en esta novela.
 
-12. CAPÍTULOS ESCRITOS / PLANIFICADOS
+14. CAPÍTULOS ESCRITOS / PLANIFICADOS
 Escritos
 Prólogo — El detonante en el garaje.
 Capítulo 1 — Primer encuentro en el piso.
@@ -604,24 +845,30 @@ Jugando con fuego.
 Provocaciones.
 Capítulos posteriores relacionados con Damian, Hugo y el pasado de Cris.
 Capítulos de investigación sobre el incendio y la muerte de los padres de Cris.
+Capítulos relacionados con Lorenzo y la progresiva revelación de su verdadera naturaleza.
+Desarrollo de la organización y de su interés por Max y Cris.
 
-13. REGLAS DE CONTINUIDAD
+15. REGLAS DE CONTINUIDAD
 Max no recibe impresiones emocionales de objetos.
 La psicometría funciona mediante contacto físico con personas.
+La percepción psicométrica es involuntaria cuando existe contacto.
 Max intenta evitar tocar directamente a Cris porque no quiere conocer sus emociones sin permiso.
-Cris no tiene supervelocidad. Su capacidad física consiste principalmente en una velocidad de reacción y unos reflejos extraordinarios.
+Max no debe utilizar su psicometría como herramienta para controlar o manipular a Cris.
+Cris no tiene supervelocidad.
+La capacidad física de Cris consiste principalmente en una velocidad de reacción y unos reflejos extraordinarios.
 Cris es consciente de sus reflejos debido a su experiencia en su segundo trabajo.
 El poder térmico de Cris permite tanto aumentar como reducir la temperatura.
-Cris puede generar calor y pequeñas llamas.
+Cris puede generar calor y llamas.
 Cris también puede generar frío y reducir activamente la temperatura de objetos y de su entorno.
-La capacidad de enfriar de Cris se manifiesta por primera vez de manera importante durante el incendio en el que mueren sus padres.
+Cris puede congelar determinados objetos o superficies cuando tiene suficiente control.
+La capacidad de enfriar se manifiesta de manera importante por primera vez durante el incendio en el que mueren sus padres.
 De niño, Cris tiene mucho menos control y potencia que de adulto.
 De adulto, Cris puede alcanzar temperaturas mucho más elevadas y producir efectos de enfriamiento mucho mayores.
 El poder térmico de Cris está relacionado con su estado emocional.
 La cercanía de Max puede dificultar el control térmico de Cris.
-Cris no oculta sus reflejos a Max de manera deliberada después de revelar su poder térmico, pero tampoco se los explica inmediatamente. Puede mostrárselos progresivamente y observar su reacción.
+Cris no oculta sus reflejos a Max de manera deliberada después de revelar su poder térmico, pero tampoco se los explica inmediatamente.
+Puede mostrárselos progresivamente y observar su reacción.
 Max y Cris no se enamoran de golpe. La relación debe evolucionar progresivamente.
-Max no debe utilizar su psicometría como herramienta para controlar o manipular a Cris.
 Los poderes no deben solucionar fácilmente los conflictos narrativos.
 Los secretos deben revelarse cuando exista una razón emocional o narrativa para hacerlo.
 Cris se distancia de Max porque cree que mantenerla lejos es una forma de protegerla, no porque haya dejado de querer su compañía.
@@ -642,9 +889,34 @@ La existencia de los poderes de Cris debe permanecer oculta dentro de la documen
 Los padres de Cris habían sido vigilados antes del incendio después de negarse a colaborar con las personas interesadas en las capacidades de su hijo.
 Las anomalías relacionadas con el incendio deben aparecer progresivamente, no todas de una vez.
 La verdad sobre la muerte de los padres de Cris debe revelarse progresivamente y tener una repercusión emocional importante.
-El papel exacto de Damian en el incendio no debe darse por completamente establecido hasta que se desarrolle la trama correspondiente.
+Lorenzo pertenece a la organización.
+Cris no sabe que Lorenzo pertenece a la organización.
+Cris cree que Lorenzo fue una persona que lo ayudó después de quedar huérfano.
+La organización ha mantenido influencia sobre Cris desde su infancia sin que él sea consciente de ello.
+Cris puede presentar a Lorenzo a Max sin sospechar que existe ninguna relación entre él y la organización.
+En el primer encuentro entre Max y Lorenzo, Lorenzo todavía no sabe que Max tiene poderes.
+Cris conoce los poderes de Max, pero respeta su secreto y no se los revela a Lorenzo.
+En ese primer encuentro, la psicometría permite a Max percibir que Lorenzo miente y oculta un secreto importante.
+Max no sabe inicialmente cuál es ese secreto ni que está relacionado con ella.
+La organización no conoce inicialmente la existencia de Max.
+Damian conoce los poderes de Cris.
+Damian pertenece a la organización, pero ocupa un nivel bajo.
+Damian no ataca a Cris por orden de la organización, sino por resentimiento personal.
+La organización considera a Cris un activo importante.
+La organización descubre la actuación de Damian y considera grave que haya puesto en peligro a Cris.
+Damian intenta protegerse utilizando la información que tiene sobre Max.
+Hugo revela a Damian que Max posee telequinesis.
+Hugo no revela la psicometría de Max.
+La organización conoce la telequinesis de Max antes de conocer su psicometría.
+Esta diferencia de información debe tener consecuencias narrativas.
+Max puede detectar mediante su psicometría que determinadas personas relacionadas con la organización ocultan información.
+La organización busca personas con capacidades extraordinarias y las considera recursos o activos.
+La organización procura mantener aisladas a las personas con capacidades para aumentar su dependencia y evitar que comprendan que existen otras personas como ellas.
+La existencia de otras personas con capacidades puede quedar como lore oculto y posible material para futuras novelas.
+Si la organización hubiera descubierto a Max antes, probablemente habría intentado reclutarla o controlarla.
+La coherencia emocional de los personajes está por encima de las necesidades inmediatas de la trama.
 
-14. ESTILO NARRATIVO
+16. ESTILO NARRATIVO
 La narración debe mantener un estilo cercano, fluido y natural.
 Los párrafos serán relativamente largos y narrativos, evitando separar cada frase o cada intervención narrativa en un párrafo independiente.
 Se hará punto y aparte cuando realmente cambie:
@@ -664,10 +936,11 @@ diálogo.
 La tensión romántica debe construirse progresivamente.
 Los poderes deben formar parte natural de la vida de los personajes, no aparecer únicamente cuando la trama los necesita.
 
-15. PRINCIPIO FUNDAMENTAL DE LA HISTORIA
+17. PRINCIPIO FUNDAMENTAL DE LA HISTORIA
 La coherencia emocional de los personajes está por encima de las necesidades inmediatas de la trama.
 Si una escena exige que Max o Cris hagan algo que contradice lo establecido sobre ellos, se modifica la escena antes que modificar arbitrariamente al personaje.
 La historia debe mantener siempre presente que ambos han pasado años aprendiendo a ocultar aquello que los hace diferentes.
 Por eso, revelar un poder no es simplemente revelar una habilidad: es permitir que otra persona vea una parte de sí mismos que han aprendido a esconder.
+Max y Cris comienzan sintiéndose solos por aquello que los hace diferentes y terminan descubriendo que compartir ese secreto no les quita libertad, sino que les permite dejar de esconderse.
 Y esa es, en última instancia, la base de la relación entre Max y Cris.
 
