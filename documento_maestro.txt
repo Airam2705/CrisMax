@@ -1,10 +1,12 @@
+Sí. Lo rehago entero, manteniendo la estructura del documento maestro, incorporando todo lo que hemos desarrollado, conservando las tablas como tablas y tachando los misterios que ya hemos resuelto sin eliminarlos. En los que solo tenemos una respuesta parcial, lo indicaré como tal, pero no los marcaré como completamente resueltos.
 BIBLIA DE LA NOVELA — MAX Y CRIS
-Documento maestro de continuidad. Este documento recoge la información establecida sobre la historia, los personajes, sus poderes, la evolución de las relaciones, los secretos, los misterios y la estructura narrativa. Debe actualizarse cuando se produzcan cambios importantes en la historia.
+Documento maestro de continuidad.
+Este documento recoge la información establecida sobre la historia, los personajes, sus poderes, la evolución de las relaciones, los secretos, los misterios y la estructura narrativa. Debe actualizarse cuando se produzcan cambios importantes en la historia.
 
 1. PREMISA
 Max y Cris se conocen al convertirse en compañeros de piso mientras ambos estudian Ingeniería Aeroespacial. Ninguno esperaba encontrarse con alguien del otro sexo debido a sus nombres.
 Aparentemente son dos estudiantes normales que intentan sacar adelante una carrera exigente y sus respectivas vidas. Sin embargo, ambos esconden capacidades sobrehumanas que llevan años aprendiendo a controlar y ocultando.
-Max posee dos habilidades: puede percibir emociones, sensaciones y estados internos de otras personas mediante el contacto físico y también puede mover objetos mediante telequinesis. Cris posee capacidades físicas extraordinarias, especialmente unos reflejos y una velocidad de reacción muy superiores a los normales, y puede controlar la temperatura, llegando a producir calor y pequeñas llamas.
+Max posee dos habilidades: puede percibir emociones, sensaciones y estados internos de otras personas mediante el contacto físico y también puede mover objetos mediante telequinesis. Cris posee capacidades físicas extraordinarias, especialmente unos reflejos y una velocidad de reacción muy superiores a los normales, y puede controlar la temperatura, tanto para generar calor como para reducirla, llegando a producir llamas o enfriar objetos y su entorno.
 Al principio ninguno conoce el secreto del otro. La convivencia hace que se acerquen progresivamente, primero como compañeros, después como amigos y finalmente como pareja. La confianza entre ambos se construye precisamente sobre aquello que más miedo les produce: permitir que otra persona conozca la parte de sí mismos que llevan años escondiendo.
 La historia combina romance, poderes, misterio y una trama criminal relacionada con el pasado de Cris, el segundo trabajo que realiza y la corrupción de Damian.
 
@@ -76,8 +78,8 @@ Está en tercero, aunque ha adelantado asignaturas.
 Cursa algunas asignaturas de cuarto.
 Es extraordinariamente bueno académicamente.
 Trabaja en una cafetería.
-Tiene un segundo trabajo nocturno relacionado con sus capacidades y con una trama criminal todavía por concretar completamente.
-Perdió a sus padres siendo joven.
+Tiene un segundo trabajo nocturno relacionado con sus capacidades y con una trama criminal.
+Perdió a sus padres cuando tenía aproximadamente diez años.
 Tiene que pagarse sus estudios.
 Mantiene una vida muy estructurada.
 Personalidad
@@ -108,11 +110,20 @@ Al principio procura ocultarlos.
 Después de revelar a Max su poder térmico, deja progresivamente de ocultarlos tanto, aunque no se los explica directamente. Empieza a dejar que Max los vea en pequeñas situaciones cotidianas y observa deliberadamente cómo reacciona.
 Control térmico
 Cris puede controlar la temperatura de objetos y de su propio entorno.
+Su poder funciona en ambos sentidos.
 Puede:
 generar calor;
 aumentar la temperatura;
-producir pequeñas llamas;
-controlar el calor que genera.
+producir llamas;
+controlar el calor que genera;
+reducir la temperatura;
+enfriar objetos;
+generar frío de manera activa;
+llegar a congelar determinadas superficies u objetos cuando tiene suficiente control.
+Su capacidad para generar calor se manifiesta antes que su capacidad para enfriar.
+La primera manifestación conocida de su capacidad térmica ocurre aproximadamente a los diez años, cuando genera una pequeña llama.
+La capacidad de enfriar aparece de forma posterior y mucho más inesperada. Su primera manifestación importante ocurre durante el incendio en el que mueren sus padres, cuando Cris utiliza instintivamente el frío para protegerlos y combatir las llamas.
+De adulto, Cris tiene un control térmico mucho mayor y puede alcanzar temperaturas muy elevadas o reducir considerablemente la temperatura de su entorno. El alcance y la precisión dependen de su concentración, su estado físico y emocional y su experiencia.
 Su control está relacionado con sus emociones.
 Cuando se pone nervioso, especialmente cuando Max está demasiado cerca, puede resultarle más difícil controlar la temperatura.
 Esto provoca que:
@@ -122,19 +133,47 @@ pueda producir calor involuntariamente;
 en situaciones extremas, el poder pueda manifestarse.
 La cercanía de Max afecta especialmente a su control térmico.
 Pasado
-Cris perdió a sus padres siendo joven.
-Todavía no está completamente establecido qué ocurrió.
-Una línea argumental importante consiste en descubrir que Cris ha cargado durante años con una culpa relacionada con la muerte de sus padres, pero existe la posibilidad de que dicha culpa sea injustificada o haya sido manipulada.
-El pasado de Cris terminará conectado con Damian.
+Cris perdió a sus padres cuando tenía aproximadamente diez años, en un incendio provocado deliberadamente.
+Antes del incendio, Cris había comenzado a llamar la atención por sus capacidades.
+El primer indicio no estuvo relacionado con sus reflejos, sino con su resistencia al calor. En una ocasión, siendo todavía niño, tocó accidentalmente un objeto a una temperatura que debería haberle provocado una quemadura importante y apenas resultó afectado.
+Este hecho llamó la atención de personas que conocían la existencia de capacidades extraordinarias y comenzaron a observarlo.
+Poco después, Cris manifestó por primera vez su capacidad para generar calor y pequeñas llamas.
+Estas personas intentaron contactar con sus padres y propusieron utilizar o entrenar a Cris. Sus padres se negaron.
+Después de la negativa, los padres de Cris comenzaron a sospechar que estaban siendo vigilados. Detectaron comportamientos extraños, personas interesándose por Cris y otras señales que les hicieron comprender que quienes habían contactado con ellos no habían abandonado su interés.
+Sus padres intentaron protegerlo y tomaron algunas precauciones. Entre ellas se encontraban medidas adicionales relacionadas con la detección de incendios en la vivienda.
+Finalmente, las personas interesadas en Cris provocaron un incendio en la casa.
+El objetivo era eliminar a sus padres y crear en Cris un trauma que pudiera utilizarse posteriormente para controlarlo.
+Los responsables sabían que Cris podía soportar temperaturas que habrían resultado extremadamente peligrosas para una persona normal. Sin embargo, desconocían que su capacidad térmica también podía utilizarse en sentido contrario.
+Durante el incendio, Cris intentó proteger a sus padres.
+En una situación extrema manifestó por primera vez su capacidad para enfriar objetos y reducir la temperatura de su entorno.
+Utilizó esta capacidad de forma instintiva para combatir las llamas y proteger a sus padres. Llegó a interponerse entre ellos y el fuego y estuvo cerca de conseguir contener el incendio por sí mismo.
+Las personas que habían provocado el incendio no habían previsto esta capacidad.
+Uno de los implicados entró en la vivienda y dejó inconsciente a Cris antes de que pudiera continuar utilizando su poder para extinguir el fuego.
+Cris sobrevivió gracias a su resistencia natural al calor, pero sus padres murieron.
+Durante años, Cris conservó recuerdos fragmentarios de aquella noche: el fuego, el frío, sus padres, una figura acercándose y el momento en que perdió el conocimiento.
+Sin embargo, debido al trauma y a la información que recibió posteriormente, interpretó esos recuerdos como prueba de que él había provocado el incendio y había causado la muerte de sus padres.
+La verdad es que Cris intentó salvarlos y estuvo cerca de conseguirlo antes de ser reducido.
+La culpa que ha cargado durante años fue creada y reforzada deliberadamente.
+Las circunstancias del incendio fueron manipuladas posteriormente para ocultar su verdadero origen y evitar que quedaran pruebas de la existencia de las capacidades de Cris.
+Entre las anomalías relacionadas con el caso se encuentran:
+el origen del incendio no coincide completamente con lo que Cris recuerda;
+los sistemas de detección de incendios de la vivienda presentan irregularidades que podrían indicar manipulación previa;
+las principales salidas de la vivienda fueron encontradas cerradas, dificultando que los padres de Cris pudieran escapar;
+existen indicios de que una persona relacionada con los responsables pudo entrar en la vivienda durante el incendio;
+los padres de Cris habían mostrado preocupación por estar siendo vigilados poco antes de morir;
+la documentación oficial del incendio contiene aspectos incompletos o inconsistentes que podrían haber sido alterados para ocultar la verdadera naturaleza del caso.
+Todavía no está establecido exactamente quién organizó el incendio, quién entró en la vivienda, qué personas participaron directamente y cuál fue el papel concreto de Damian.
 Segundo trabajo
 Cris necesita dinero para pagar sus estudios.
 Su segundo trabajo es nocturno y peligroso y está relacionado con sus capacidades.
-Todavía debe definirse completamente:
+La naturaleza exacta del trabajo y su relación con la trama criminal todavía deben desarrollarse completamente.
+Debe determinarse:
 para quién trabaja;
 qué tipo de trabajos realiza;
 qué relación tiene con la policía;
 qué parte de esa relación es voluntaria;
 qué parte puede estar condicionada por policías corruptos;
+qué ha descubierto Cris durante sus investigaciones;
 qué relación tiene todo ello con Damian.
 Evolución de Cris
 Cris comienza convencido de que mantener a los demás alejados es la mejor forma de protegerlos.
@@ -171,6 +210,7 @@ Más adelante empieza a merodear cerca de la universidad.
 Allí descubre que Max está muy unida a Cris y llega a interpretar que Cris es el hombre que lo ha sustituido.
 Esta situación permite que Damian descubra la existencia de Cris y Max como pareja o personas cercanas.
 Posteriormente Damian puede ponerse en contacto con Hugo y utilizar su resentimiento contra Cris en beneficio propio.
+La grabación del garaje continúa siendo una herramienta de presión potencial sobre Max, pero no es la única vía mediante la que Damian puede obtener información sobre ella.
 Resolución pendiente
 Todavía debemos decidir exactamente qué ocurre con Hugo al final.
 
@@ -181,9 +221,14 @@ Motivaciones
 Tiene interés en Cris.
 Quiere perjudicarlo.
 Puede estar relacionado con el segundo trabajo de Cris.
-Puede estar relacionado con la muerte de sus padres.
+Está relacionado con la tragedia que acabó con la vida de sus padres.
 Puede conocer aspectos de su pasado que Cris desconoce.
 Puede utilizar a Hugo para llegar hasta Cris.
+Relación con el pasado de Cris
+Damian está relacionado con las personas que estuvieron detrás del incendio en el que murieron los padres de Cris.
+Todavía debe determinarse cuál fue exactamente su papel en aquella época: si participó directamente en la operación, si recibió información sobre ella, si formaba parte de la estructura que intentó reclutar a Cris o si posteriormente intervino para ocultar las pruebas.
+En el presente, Damian tiene interés en impedir que Cris descubra la verdad.
+Parte de su actividad puede consistir en localizar, eliminar o manipular pruebas relacionadas con el incendio y con las circunstancias que rodearon la muerte de los padres de Cris.
 Posible estrategia
 Damian descubre que Hugo tiene resentimiento hacia Cris.
 Hugo cree que Max se está alejando de él porque Cris lo ha sustituido.
@@ -237,11 +282,15 @@ Puede atrapar objetos antes de que una persona normal pueda reaccionar.
 Su capacidad es especialmente útil en situaciones peligrosas.
 Tiene experiencia práctica con ella.
 Temperatura
-Puede controlar el calor.
-Puede aumentar la temperatura.
-Puede generar pequeñas llamas.
+Puede controlar la temperatura en ambos sentidos.
+Puede generar y aumentar el calor.
+Puede producir llamas.
+Puede reducir la temperatura y generar frío.
+Puede enfriar objetos y, con suficiente concentración y potencia, congelarlos.
+Su capacidad térmica no se limita a producir fuego.
 Las emociones interfieren con el control.
-Max tiene un efecto especialmente fuerte sobre él.
+La cercanía de Max puede dificultar especialmente el control térmico de Cris.
+El poder térmico evoluciona con la experiencia: sus capacidades como adulto son considerablemente superiores a las que tenía durante la infancia.
 
 8. EVOLUCIÓN MAX ↔ CRIS
 Etapa 1 — Compañeros de piso
@@ -268,6 +317,7 @@ Etapa 3 — Primeras sospechas
 Max percibe que Cris oculta algo.
 Cris observa manifestaciones extrañas de la telequinesis de Max.
 Ninguno conoce todavía el secreto completo del otro.
+Cris también empieza a mostrar deliberadamente pequeños indicios de sus reflejos para observar la reacción de Max.
 Etapa 4 — Distancia
 Después de que Max descubra que el contacto físico puede permitirle percibir las emociones de Cris, comienza a evitar determinados roces.
 No quiere invadir su privacidad.
@@ -330,6 +380,12 @@ Sí
 No establecido
 Pendiente
 Sí
+Capacidad de enfriamiento de Cris
+No
+Sí
+No establecido
+Pendiente
+Sí
 Reflejos de Cris
 Los sospecha y posteriormente los descubre progresivamente
 Sí
@@ -352,8 +408,50 @@ Muerte de los padres de Cris
 No
 Sí parcialmente
 No
-Posiblemente sí
-No completamente
+Sí/posiblemente
+Parcial
+Verdadero origen del incendio
+No
+No
+No
+Sí/posiblemente
+Sí
+Cris intentó salvar a sus padres
+No
+No
+No
+Sí/posiblemente
+Sí
+Primera manifestación importante del frío durante el incendio
+No
+No
+No
+Sí/posiblemente
+Sí
+Cris fue dejado inconsciente durante el incendio
+No
+No
+No
+Sí/posiblemente
+Sí
+Vigilancia de los padres de Cris antes del incendio
+No
+No
+No
+Sí/posiblemente
+Parcial
+Salidas de la casa cerradas durante el incendio
+No
+No
+No
+Sí/posiblemente
+Parcial
+Irregularidades en los detectores de incendios
+No
+No
+No
+Sí/posiblemente
+Parcial
 Grabación del garaje
 No
 Sí
@@ -376,9 +474,17 @@ Esta tabla debe actualizarse después de cada revelación importante.
 
 10. MISTERIOS ABIERTOS
 Cris
-¿Qué ocurrió realmente con sus padres?
-¿Fue responsable Cris de alguna manera o le hicieron creer que lo era?
-¿Qué relación tiene Damian con aquella tragedia?
+¿Qué ocurrió realmente con sus padres? Resuelto parcialmente: sus padres fueron víctimas de un incendio provocado deliberadamente. Cris intentó salvarlos y fue dejado inconsciente antes de poder extinguir completamente el fuego.
+¿Fue responsable Cris de alguna manera o le hicieron creer que lo era? Resuelto: Cris no provocó conscientemente el incendio. La culpa fue inducida y reforzada deliberadamente.
+¿Quién organizó el incendio?
+¿Quién ordenó la operación?
+¿Quiénes eran las personas que intentaron reclutar a Cris?
+¿Qué relación tenían esas personas con la estructura en la que posteriormente aparece Damian?
+¿Quién entró en la casa durante el incendio y dejó inconsciente a Cris?
+¿Cómo fueron manipuladas las pruebas del incendio?
+¿Por qué las salidas de la casa estaban cerradas?
+¿Qué ocurrió exactamente con los detectores de incendios?
+¿Qué relación tiene Damian con aquella tragedia? Resuelto parcialmente: Damian está relacionado con las personas responsables o con la estructura detrás de la tragedia, pero todavía no sabemos cuál fue exactamente su papel.
 ¿Qué sabe Damian sobre Cris?
 ¿Qué es exactamente el segundo trabajo?
 ¿Para quién trabaja Cris?
@@ -394,9 +500,12 @@ Hugo
 ¿Cuál será su destino final?
 Damian
 ¿Por qué quiere perjudicar a Cris?
-¿Qué relación tiene con sus padres?
+¿Qué relación tiene con sus padres? Resuelto parcialmente: está relacionado con la estructura que estuvo detrás de la tragedia, pero falta determinar su implicación concreta.
 ¿Qué papel tuvo en el pasado de Cris?
+¿Participó directamente en la operación contra los padres de Cris?
 ¿Por qué está interesado en sus capacidades?
+¿Qué sabe realmente sobre el incendio?
+¿Qué pruebas intenta ocultar o eliminar?
 ¿Qué pretende conseguir utilizando a Hugo?
 ¿Cómo acaba siendo descubierto?
 
@@ -447,11 +556,19 @@ Damian descubre la existencia de Cris y Max.
 Damian utiliza el resentimiento de Hugo.
 El segundo trabajo de Cris adquiere mayor importancia.
 Aparecen pistas sobre los padres de Cris.
+Cris descubre irregularidades relacionadas con el incendio.
+Aparecen pruebas sobre la vigilancia que sufrieron sus padres.
+Cris descubre anomalías relacionadas con los detectores de incendios.
+Se descubre que las salidas de la casa estaban cerradas.
 Cris y Max tienen que enfrentarse a una amenaza real.
+La investigación acerca progresivamente a Cris hasta Damian.
 ACTO V — RESOLUCIÓN
 Objetivos previstos:
 Damian es descubierto y termina detenido/condenado.
 Cris descubre la verdad sobre sus padres.
+Cris descubre que intentó salvarlos durante el incendio.
+Cris descubre que su capacidad para enfriar fue lo que le permitió enfrentarse al fuego.
+Cris descubre que otra persona lo dejó inconsciente antes de que pudiera salvarlos.
 Cris deja de cargar con una culpa que no le corresponde.
 Se resuelve el conflicto relacionado con su segundo trabajo.
 Hugo recibe las consecuencias de sus decisiones.
@@ -463,24 +580,30 @@ Max y Cris terminan juntos.
 12. CAPÍTULOS ESCRITOS / PLANIFICADOS
 Escritos
 Prólogo — El detonante en el garaje.
-Primer encuentro en el piso.
-Cena a deshoras.
-Primer día de clase.
-Cafetería — Laura / primer indicio del poder de Cris.
-Puñetazo en la cara — pendiente de reescritura.
-Herido de madrugada — pendiente de revisar según la continuidad definitiva.
+Capítulo 1 — Primer encuentro en el piso.
+Capítulo 2 — Gimnasia ruidosa.
+Capítulo 3 — Hugo y el ramen.
+Capítulo 4 — Tras el ramen.
+Capítulo 5 — Primer día de clase.
+Capítulo 6 — La cafetería.
+Capítulo 7 — Cena a deshoras.
+Capítulo 8 — Puñetazo en la cara.
+Capítulo 9 — La llamada de Hugo.
+Capítulo 10 — La maqueta que no entra.
+Capítulo 11 — Herido de madrugada.
+Capítulo 12 — Pequeñas cosas.
+Los capítulos que figuren como pendientes de reescritura o revisión deberán comprobarse contra esta biblia antes de considerarse definitivos.
 Planificados
 Capítulos intermedios de acercamiento.
 Lo que Cris no cuenta.
 Lo que no se puede saber.
-La llamada de Hugo.
 Visita no deseada.
 Entrenando.
+Primer beso.
 Jugando con fuego.
 Provocaciones.
-La maqueta que no entra.
-Herido de madrugada.
-Capítulos posteriores todavía por desarrollar.
+Capítulos posteriores relacionados con Damian, Hugo y el pasado de Cris.
+Capítulos de investigación sobre el incendio y la muerte de los padres de Cris.
 
 13. REGLAS DE CONTINUIDAD
 Max no recibe impresiones emocionales de objetos.
@@ -488,6 +611,12 @@ La psicometría funciona mediante contacto físico con personas.
 Max intenta evitar tocar directamente a Cris porque no quiere conocer sus emociones sin permiso.
 Cris no tiene supervelocidad. Su capacidad física consiste principalmente en una velocidad de reacción y unos reflejos extraordinarios.
 Cris es consciente de sus reflejos debido a su experiencia en su segundo trabajo.
+El poder térmico de Cris permite tanto aumentar como reducir la temperatura.
+Cris puede generar calor y pequeñas llamas.
+Cris también puede generar frío y reducir activamente la temperatura de objetos y de su entorno.
+La capacidad de enfriar de Cris se manifiesta por primera vez de manera importante durante el incendio en el que mueren sus padres.
+De niño, Cris tiene mucho menos control y potencia que de adulto.
+De adulto, Cris puede alcanzar temperaturas mucho más elevadas y producir efectos de enfriamiento mucho mayores.
 El poder térmico de Cris está relacionado con su estado emocional.
 La cercanía de Max puede dificultar el control térmico de Cris.
 Cris no oculta sus reflejos a Max de manera deliberada después de revelar su poder térmico, pero tampoco se los explica inmediatamente. Puede mostrárselos progresivamente y observar su reacción.
@@ -503,6 +632,17 @@ Jugando con fuego ocurre después del primer beso.
 Provocaciones ocurre después de Jugando con fuego.
 La atracción física no debe sustituir a la evolución emocional.
 Las escenas románticas e íntimas deben contribuir al desarrollo de los personajes.
+El incendio que provocó la muerte de los padres de Cris fue deliberado.
+Los responsables conocían la resistencia de Cris al calor, pero desconocían inicialmente su capacidad para enfriar.
+Cris no provocó conscientemente el incendio que mató a sus padres.
+Durante el incendio intentó protegerlos y utilizó por primera vez de forma importante su capacidad de enfriamiento.
+Una persona relacionada con los responsables dejó inconsciente a Cris durante el incendio.
+Las pruebas del incendio fueron manipuladas para ocultar su verdadero origen.
+La existencia de los poderes de Cris debe permanecer oculta dentro de la documentación oficial relacionada con el incendio.
+Los padres de Cris habían sido vigilados antes del incendio después de negarse a colaborar con las personas interesadas en las capacidades de su hijo.
+Las anomalías relacionadas con el incendio deben aparecer progresivamente, no todas de una vez.
+La verdad sobre la muerte de los padres de Cris debe revelarse progresivamente y tener una repercusión emocional importante.
+El papel exacto de Damian en el incendio no debe darse por completamente establecido hasta que se desarrolle la trama correspondiente.
 
 14. ESTILO NARRATIVO
 La narración debe mantener un estilo cercano, fluido y natural.
@@ -530,3 +670,4 @@ Si una escena exige que Max o Cris hagan algo que contradice lo establecido sobr
 La historia debe mantener siempre presente que ambos han pasado años aprendiendo a ocultar aquello que los hace diferentes.
 Por eso, revelar un poder no es simplemente revelar una habilidad: es permitir que otra persona vea una parte de sí mismos que han aprendido a esconder.
 Y esa es, en última instancia, la base de la relación entre Max y Cris.
+
